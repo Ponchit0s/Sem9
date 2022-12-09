@@ -1,0 +1,15 @@
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\bin\Debug\net6.0\67.exe
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\bin\Debug\net6.0\67.deps.json
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\bin\Debug\net6.0\67.runtimeconfig.json
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\bin\Debug\net6.0\67.dll
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\bin\Debug\net6.0\67.pdb
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\67.csproj.AssemblyReference.cache
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\67.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\67.AssemblyInfoInputs.cache
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\67.AssemblyInfo.cs
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\67.csproj.CoreCompileInputs.cache
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\67.dll
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\refint\67.dll
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\67.pdb
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\67.genruntimeconfig.cache
+D:\!Инженер раработчик\C#\Exampales\Sem\Sem9\67\obj\Debug\net6.0\ref\67.dll
